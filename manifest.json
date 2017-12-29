@@ -7,5 +7,7 @@
         "default_popup" : "popup.html",
         "default_icon" : "icon.png"
     },
+    "options_page": "options.html",
+    "background": { "scripts": ["background.js"] },
     "permissions" : ["notifications", "alarms", "storage"]
 }
